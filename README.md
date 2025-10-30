@@ -30,9 +30,9 @@ Make sure the website works well on phones and tablets (use CSS media queries).
 Hint: Make use of hamburger menus and stacking.
 
 
-Homework 2: 
+Homework 2 
 
-Homework 2: Implementing a Shopping Cart Feature
+Implementing a Shopping Cart Feature
 Enhance the restaurant website by implementing a shopping cart feature. 
 
 Users should be able to:
